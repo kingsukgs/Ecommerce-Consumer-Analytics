@@ -14,35 +14,40 @@ This project presents a **4-Level Data Analysis** of e-commerce consumer behavio
 
 ## 📂 Files Included
 
-- `main_project.py`: Combined ML workflow.
-- `ecommerce_dataset.csv`: Sample data (if shareable).
+- `main_project.ipynb`: Combined ML workflow in python notebook.
+- `ecommerce_dataset.csv`: Real Life E-commerce dataset.
 - `Ecommerce_Analytics_Presentation.pptx`: Project slides.
-- `tableau_dashboard/`: Dashboard screenshots.
+- `tableau_dashboard.png`: Dashboard screenshots.
 - `README.md`: Project summary and instructions.
+- `project_report.pdf`: Project Report for explanation and key finding.
 
 ---
 
 ## 💡 Tools Used
 
-- Python (pandas, scikit-learn, matplotlib, seaborn)
-- Tableau
+- Python (numpy, pandas, scikit-learn, matplotlib, seaborn)
 - Jupyter Notebook
+- Tableau
 - GitHub
 
 ---
 
 ## 📊 Tableau Dashboard
 
-See `tableau_dashboard/` folder for key visualizations like:
+See `tableau_dashboard.png` file for key visualizations like:
 - Customer segments
+- Purchace categories ranked
+- Monthly trend
 - Satisfaction vs Loyalty
-- Return rate trends
+- Discount usage
+- Gender, Age wise purchace
+- Device used
 
 ---
 
 ## 🙏 Acknowledgements
 
-- **Prof. Subhadip Basu** – For guiding ML model selection.
+- **Prof. Subhadip Basu** – For guiding ML model selection. 
 - **Sir Pradipta Sarkar** – For guidance in Python logic and Tableau visuals.
 
 ---
