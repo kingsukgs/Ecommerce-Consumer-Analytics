@@ -47,8 +47,8 @@ See `tableau_dashboard.png` file for key visualizations like:
 
 ## 🙏 Acknowledgements
 
-- **Prof. Subhadip Basu** – For guiding ML model selection. 
-- **Sir Pradipta Sarkar** – For guidance in Python logic and Tableau visuals.
+- **Prof. Subhadip Basu** – Department of Computer Science & Engineering, Jadavpur University
+- **Sir Pradipta Sarkar** – CMATER, Department of Computer Science & Engineering, Jadavpur University / Assistant Professor, UEM, Kolkata
 
 ---
 
